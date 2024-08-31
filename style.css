@@ -1,0 +1,10 @@
+@font-face {
+  font-family: clock;
+  src: url(./assets/fonts/Digital\ Dismay.otf);
+}
+
+h1 {
+  margin: 100px 20px;
+  font-size: 100px;
+  font-family: clock;
+}
